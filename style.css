@@ -1,0 +1,21 @@
+.img-fluid {
+    border-radius: 50%;
+}
+
+.name-main {
+    color: rgba(0, 0, 255, 0.717);
+}
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+
+#projects {
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.icons {
+    height: 30px;
+}
